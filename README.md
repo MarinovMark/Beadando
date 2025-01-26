@@ -1,1 +1,1 @@
-# Beadando
+# Mobil Programozás Beadandó feladat
